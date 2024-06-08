@@ -1,2 +1,2 @@
 # aop
-AOP + OpenTelemetry
+AOP (part of interception method calls) + OpenTelemetry
